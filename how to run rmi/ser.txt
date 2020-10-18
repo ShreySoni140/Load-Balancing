@@ -1,0 +1,10 @@
+server side--------------
+
+rmic FileRemoteImpl  ---------- it is the interface
+
+
+start rmiregistry ----------- it is to start registry
+
+
+
+java RMIFileServer--------------- it is the server file

@@ -1,0 +1,10 @@
+in client side write --------
+
+
+java RMIFileClient job.txt 127.0.0.1
+
+
+
+
+note ----- 
+in LAN put ip address of server from LAN not put(127.0.0.1)
