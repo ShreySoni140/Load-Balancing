@@ -1,0 +1,15 @@
+CLASSPATH
+
+C:\Program Files\Apache Software Foundation\Tomcat 5.0\common\lib\javax.servlet.jar
+
+
+
+
+
+
+
+
+
+CATALINA_HOME
+
+C:\Program Files\Apache Software Foundation\Tomcat 5.0
